@@ -1,2 +1,2 @@
-# Gamer_Names
-List of fake player names
+# Gamer Names
+10,000 Lines of fake player names
